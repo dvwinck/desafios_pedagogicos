@@ -35,7 +35,7 @@ Transforme o problema em uma **expressão algébrica ou algoritmo** que possa:
 
 ---
 
-## 🧠 Notas para o mentor (você)
+## 🧠 Notas para o mentor 
 
 Esse desafio estimula:
 
