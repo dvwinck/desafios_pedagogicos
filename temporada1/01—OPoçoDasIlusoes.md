@@ -2,17 +2,12 @@
 
 Um sapo está preso num poço de **30 metros de profundidade**.
 
-Ele **sobe 3 metros** durante o dia, mas à noite **escorrega 2 metros**.
+Ele **sobe 3,5 metros** durante o dia, mas à noite **escorrega 2 metros**.
 
 A cada **5 dias**, o sapo fica **mais cansado** e passa a:
 
 * subir **0,2 metro a menos por dia**;
 * escorregar **0,1 metro a menos por noite**.
-
-Quando **chove** (a cada **7 dias**):
-
-* o poço **enche 1 metro de água** (aproxima o sapo da borda);
-* mas na **noite seguinte**, se ele ainda estiver preso, escorrega **0,5 metro a mais** devido à lama.
 
 Pergunta:
 **Em quantos dias o sapo sairá do poço, considerando todos esses fatores?**
