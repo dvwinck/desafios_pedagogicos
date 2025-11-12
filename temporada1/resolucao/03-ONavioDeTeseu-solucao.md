@@ -1,5 +1,4 @@
 # 🧩 Desafio 2 — O Paradoxo do Navio de Teseu  
-## O Navio que Nunca Parou  
 
 ### 5. Propósito pedagógico (Para o Mentor)  
 
