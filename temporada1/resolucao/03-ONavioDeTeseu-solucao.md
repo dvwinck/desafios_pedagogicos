@@ -1,4 +1,4 @@
-# 🧩 Desafio 2 — O Paradoxo do Navio de Teseu  
+# 🧩 Desafio 3 — O Paradoxo do Navio de Teseu  
 
 ### 5. Propósito pedagógico (Para o Mentor)  
 
